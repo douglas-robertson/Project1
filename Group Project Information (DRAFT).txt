@@ -21,3 +21,5 @@ Rough Breakdown of Tasks:
 Virginia - Create dataframes for analyse GDP vs carbon emissions data.
 Douglas - Create dataframes for carbone emissions over time and global temperatures per city.
 Cheng - Generate diagrams and maps to present the information. Pull together presentation for class. 
+
+
