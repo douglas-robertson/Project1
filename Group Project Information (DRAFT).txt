@@ -7,9 +7,9 @@ Virginia Mwape, Douglas Robertson, Cheng Tan
 Project Description/Outline:
 
 Research Questions to Answer:
-Does a countries GDP have an impact on it's carbon emission?
-Is there a tipping point where carbon emissions either increase or decrease depending on GDP?
-What impact does global carbon emissions have on global average temperature?
+	1. Does a countries GDP have an impact on it's carbon emission?
+	2. Is there a tipping point where carbon emissions either increase or decrease depending on GDP?
+	3. What impact does global carbon emissions have on global average temperature?
 
 Datasets to be Used:
 World Bank Data Emissions History Dataset
