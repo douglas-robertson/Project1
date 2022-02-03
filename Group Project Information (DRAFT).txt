@@ -1,5 +1,5 @@
 Project Title:
-Impact of GDP on Carbon Emissions by Country
+Relationship of GDP on Carbon Emissions (CO2 per kg) by Region
 
 Team Members: 
 Virginia Mwape, Douglas Robertson, Cheng Tan
@@ -7,19 +7,22 @@ Virginia Mwape, Douglas Robertson, Cheng Tan
 Project Description/Outline:
 
 Research Questions to Answer:
-	1. Does a countries GDP have an impact on it's carbon emission?
-	2. Is there a tipping point where carbon emissions either increase or decrease depending on GDP?
-	3. What impact does global carbon emissions have on global average temperature?
+	1. Does a countries GDP have an impact on it's carbon emission? and if yes, Is there a tipping point where carbon emissions 
+	either increase or decrease depending on GDP?
+	2. Analyse dataset as per regions and see if there is any trends between carbon emissions and GDP.
+
 
 Datasets to be Used:
 World Bank Data Emissions History Dataset
-https://data.worldbank.org/indicator/EN.ATM.CO2E.KT
-Global Surface Temperature by City Dataset:
-https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data/version/2
+https://data.worldbank.org/indicator/EN.ATM.CO2E.KT?end=2020&start=1960 (CO2 - Data)
+https://data.worldbank.org/indicator/NY.GDP.MKTP.CD (GDP - Data)
+
 
 Rough Breakdown of Tasks:
-Virginia - Create dataframes for analyse GDP vs carbon emissions data.
-Douglas - Create dataframes for carbone emissions over time and global temperatures per city.
-Cheng - Generate diagrams and maps to present the information. Pull together presentation for class. 
+	1. Each group member cleans a data set each.
+	2. Each group member explores a specific region to see if there are any relationship between carbon emission and GDP.
 
 
+Core Questions - 
+Does GDP have a statistical impact on carbon emission levels? 
+Look at a per capita component.
