@@ -26,3 +26,8 @@ Rough Breakdown of Tasks:
 Core Questions - 
 Does GDP have a statistical impact on carbon emission levels? 
 Look at a per capita component.
+
+Doug - GDP
+Cheng - Emmissions GHG
+Virginia - Regions and Income Brackets
+
